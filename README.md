@@ -10,11 +10,12 @@ Resources for integrating Flare with Flutter.
 https://slides.com/obitodarky/deck/ 
 
 
-### Docs
-https://docs.2dimensions.com/support/flare/core-concepts
+### Docs and Articles
+Official Flare [Docs](https://docs.2dimensions.com/support/flare/core-concepts)
+
+2dimensions' Tutorial [Articles on Medium](https://medium.com/2dimensions/tagged/tutorials)
 
 ### Youtube Tutorials
-2dimensions' Tutorial [Articles on Medium](https://medium.com/2dimensions/tagged/tutorials)
 
 2dimensions' Youtube [Channel](https://www.youtube.com/channel/UCPal2R1FxwRTPylhP_7ofEg)
 
