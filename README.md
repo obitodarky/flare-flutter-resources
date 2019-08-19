@@ -1,12 +1,17 @@
 # Flare and Flutter
 
-Resources for integrating Flare with Flutter.
+This repository contains the source code of the Flutter and Flare session taken at [Flutter Vadodara](https://twitter.com/flutterbootcamp) Meetup
 
 
-### [Slides for Flare and Flutter](https://slides.com/obitodarky/deck/)
+## Resources
+Resources for integrating Flare with Flutter. 
+
+### Slides
+https://slides.com/obitodarky/deck/ 
 
 
-### [Docs](https://docs.2dimensions.com/support/flare/core-concepts)
+### Docs
+https://docs.2dimensions.com/support/flare/core-concepts
 
 ### Youtube Tutorials
 2dimensions' Tutorial [Articles on Medium](https://medium.com/2dimensions/tagged/tutorials)
